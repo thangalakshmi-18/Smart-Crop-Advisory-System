@@ -10,6 +10,11 @@ This project is developed to help small and marginal farmers select suitable cro
 
 To assist farmers in selecting the right crop for better productivity.
 
+## Problem Definition
+
+Small and marginal farmers often face difficulties in selecting suitable crops based on soil type, season, and available resources. Incorrect crop selection can reduce productivity and income. This project aims to help farmers make better crop decisions through simple crop recommendations.
+
+
 ## Modules
 
 * Crop Recommendation
