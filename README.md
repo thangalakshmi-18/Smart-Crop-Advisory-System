@@ -6,7 +6,7 @@ The Smart Crop Advisory System is an AI-powered agricultural recommendation syst
 
 ## Objective
 
-To develop a machine learning-based crop recommendation system that helps farmers improve productivity by selecting suitable crops based on agricultural conditions.
+To develop a machine learning-based crop recommendation system that helps farmers improve productivity by selecting suitable crops based on agricultural conditions.   
 
 ## Problem Statement
 
